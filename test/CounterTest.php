@@ -1,6 +1,6 @@
 <?php
 
-namespace Agung\Test;
+namespace Programmerzamannow\BelajarPhpUnitTest;
 
 use PHPUnit\Framework\Assert;
 use PHPUnit\Framework\TestCase;

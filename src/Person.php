@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Agung\Test;
+namespace Programmerzamannow\BelajarPhpUnitTest;
 
 
 class Person
